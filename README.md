@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### YT VIDEO
 
-[https://www.youtube.com/watch?v=xc4uOzlndAk]
+https://www.youtube.com/watch?v=xc4uOzlndAk
